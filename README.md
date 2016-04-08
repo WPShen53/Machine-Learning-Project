@@ -7,3 +7,5 @@ In this final project of the Machine Learning class, we will use machine leaning
 3. Random Forest, ‘rf’
 
 The fitted models will be compared by their out of sample errors. The best model then will be used to predict the outcome of a 20 different test cases.
+
+The result rmarkdown html can be found in http://rpubs.com/WPShen53/169520
